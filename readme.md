@@ -10,4 +10,7 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+1. Clone the repository
+2. Run Docker
+3. Using WSL, navigate to project root directory using "cd /mnt/c/Users/denni/Desktop/Anythink-Market-rpaa3"
+4. Run "docker-compose up"
